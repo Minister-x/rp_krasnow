@@ -1,0 +1,3911 @@
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+Patching WVT material: maps/rp_krasnow/nature/rocks_red_grass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7604: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7604: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-668.3 2579.5 616.9)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7604: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-668.0 2579.6 616.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7604: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-717.6 2579.6 666.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7604: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (108870 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 408 texinfos to 299
+Reduced 32 texdatas to 28 (884 bytes to 742)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+ 697 portalclusters
+1894 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10203 visible clusters (2.53%)
+Total clusters visible: 402710
+Average clusters visible: 577
+Building PAS...
+Average clusters audible: 694
+visdatasize:127303  compressed from 122672
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+2865 faces
+6 degenerate faces
+1699672 square feet [244752784.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2859 patches before subdivision
+Zero area child patch at around -663.638733 2572.083252 612.224365
+123283 patches after subdivision
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 20698896, max 1067
+transfer lists: 157.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(204372, 193622, 148682)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(20758, 18438, 12197)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2164, 1866, 1085)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(268, 225, 116)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32, 27, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0343 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                312/16384        3744/196608   ( 1.9%) 
+brushsides            2090/163840      16720/1310720  ( 1.3%) 
+planes                 964/65536       19280/1310720  ( 1.5%) 
+vertexes              4229/65536       50748/786432   ( 6.5%) 
+nodes                 1554/65536       49728/2097152  ( 2.4%) 
+texinfos               299/16384       21528/1179648  ( 1.8%) 
+texdata                 28/8192          896/262144   ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2865/65536      160440/3670016  ( 4.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              972/65536       54432/3670016  ( 1.5%) 
+leaves                1556/65536       49792/2097152  ( 2.4%) 
+leaffaces             3355/65536        6710/131072   ( 5.1%) 
+leafbrushes           1111/65536        2222/131072   ( 1.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            17777/512000      71108/2048000  ( 3.5%) 
+edges                 9753/256000      39012/1024000  ( 3.8%) 
+LDR worldlights         62/8192         5456/720896   ( 0.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            356/32768        3560/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5589/65536       11178/131072   ( 8.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     3593796/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      127303/16777216 ( 0.8%) 
+entdata               [variable]       63029/393216   (16.0%) 
+LDR ambient table     1556/65536        6224/262144   ( 2.4%) 
+HDR ambient table     1556/65536        6224/262144   ( 2.4%) 
+LDR leaf ambient      6121/65536      171388/1835008  ( 9.3%) 
+HDR leaf ambient      1556/65536       43568/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212936/0        ( 0.0%) 
+physics               [variable]      108870/4194304  ( 2.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 8175
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+20 seconds elapsed
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (151961 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 620 texinfos to 424
+Reduced 48 texdatas to 44 (1209 bytes to 1063)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+ 891 portalclusters
+2475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10486 visible clusters (2.34%)
+Total clusters visible: 448225
+Average clusters visible: 503
+Building PAS...
+Average clusters audible: 601
+visdatasize:171424  compressed from 199584
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+3469 faces
+23 degenerate faces
+1789879 square feet [257742688.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3446 patches before subdivision
+132580 patches after subdivision
+44 direct lights
+0...1...2..
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+.
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+3.
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (735.000000, 5667.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (734.692566, 5671.505371, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+..4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19866809, max 1073
+transfer lists: 151.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(192603, 185141, 147225)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(20911, 18862, 12851)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2286, 1995, 1194)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(290, 245, 130)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(37, 30, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(5, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0619 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/4096          432/196608   ( 0.2%) 
+brushes                427/16384        5124/196608   ( 2.6%) 
+brushsides            2842/163840      22736/1310720  ( 1.7%) 
+planes                1464/65536       29280/1310720  ( 2.2%) 
+vertexes              5240/65536       62880/786432   ( 8.0%) 
+nodes                 1937/65536       61984/2097152  ( 3.0%) 
+texinfos               424/16384       30528/1179648  ( 2.6%) 
+texdata                 44/8192         1408/262144   ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3469/65536      194264/3670016  ( 5.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1332/65536       74592/3670016  ( 2.0%) 
+leaves                1947/65536       62304/2097152  ( 3.0%) 
+leaffaces             4125/65536        8250/131072   ( 6.3%) 
+leafbrushes           1310/65536        2620/131072   ( 2.0%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            22350/512000      89400/2048000  ( 4.4%) 
+edges                12351/256000      49404/1024000  ( 4.8%) 
+LDR worldlights         44/8192         3872/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            430/32768        4300/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6633/65536       13266/131072   (10.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     4139380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      171424/16777216 ( 1.0%) 
+entdata               [variable]       58976/393216   (15.0%) 
+LDR ambient table     1947/65536        7788/262144   ( 3.0%) 
+HDR ambient table     1947/65536        7788/262144   ( 3.0%) 
+LDR leaf ambient      6532/65536      182896/1835008  (10.0%) 
+HDR leaf ambient      1947/65536       54516/1835008  ( 3.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212388/0        ( 0.0%) 
+physics               [variable]      151961/4194304  ( 3.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10070
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+26 seconds elapsed
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (151960 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 620 texinfos to 424
+Reduced 48 texdatas to 44 (1209 bytes to 1063)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+ 891 portalclusters
+2475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10486 visible clusters (2.34%)
+Total clusters visible: 448225
+Average clusters visible: 503
+Building PAS...
+Average clusters audible: 601
+visdatasize:171424  compressed from 199584
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+3469 faces
+23 degenerate faces
+1789867 square feet [257740960.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3446 patches before subdivision
+132580 patches after subdivision
+44 direct lights
+0...1...2..
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+.
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+3.
+WARNING: Too many light styles on a face at (735.000000, 5667.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (734.692566, 5671.505371, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+..4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19866803, max 1073
+transfer lists: 151.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(192602, 185140, 147224)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(20911, 18861, 12851)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2286, 1995, 1194)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(290, 245, 130)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(37, 30, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(5, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0350 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/4096          432/196608   ( 0.2%) 
+brushes                427/16384        5124/196608   ( 2.6%) 
+brushsides            2842/163840      22736/1310720  ( 1.7%) 
+planes                1464/65536       29280/1310720  ( 2.2%) 
+vertexes              5240/65536       62880/786432   ( 8.0%) 
+nodes                 1937/65536       61984/2097152  ( 3.0%) 
+texinfos               424/16384       30528/1179648  ( 2.6%) 
+texdata                 44/8192         1408/262144   ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3469/65536      194264/3670016  ( 5.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1332/65536       74592/3670016  ( 2.0%) 
+leaves                1947/65536       62304/2097152  ( 3.0%) 
+leaffaces             4125/65536        8250/131072   ( 6.3%) 
+leafbrushes           1310/65536        2620/131072   ( 2.0%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            22350/512000      89400/2048000  ( 4.4%) 
+edges                12351/256000      49404/1024000  ( 4.8%) 
+LDR worldlights         44/8192         3872/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            430/32768        4300/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6633/65536       13266/131072   (10.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     4139380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      171424/16777216 ( 1.0%) 
+entdata               [variable]       59064/393216   (15.0%) 
+LDR ambient table     1947/65536        7788/262144   ( 3.0%) 
+HDR ambient table     1947/65536        7788/262144   ( 3.0%) 
+LDR leaf ambient      6532/65536      182896/1835008  (10.0%) 
+HDR leaf ambient      1947/65536       54516/1835008  ( 3.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212388/0        ( 0.0%) 
+physics               [variable]      151960/4194304  ( 3.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10070
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+22 seconds elapsed
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (152224 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 620 texinfos to 427
+Reduced 48 texdatas to 45 (1209 bytes to 1090)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+ 891 portalclusters
+2456 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10480 visible clusters (2.34%)
+Total clusters visible: 448571
+Average clusters visible: 503
+Building PAS...
+Average clusters audible: 603
+visdatasize:171598  compressed from 199584
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+3470 faces
+23 degenerate faces
+1789868 square feet [257741088.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3447 patches before subdivision
+132565 patches after subdivision
+44 direct lights
+0...1...2..
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+.
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+3.
+WARNING: Too many light styles on a face at (735.000000, 5622.500000, 89.000000)
+
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (732.498779, 5667.012695, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+..4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19863815, max 1065
+transfer lists: 151.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(192543, 185081, 147175)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(20902, 18854, 12845)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2285, 1994, 1193)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(291, 245, 130)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(37, 30, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(5, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0369 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/4096          432/196608   ( 0.2%) 
+brushes                427/16384        5124/196608   ( 2.6%) 
+brushsides            2842/163840      22736/1310720  ( 1.7%) 
+planes                1464/65536       29280/1310720  ( 2.2%) 
+vertexes              5238/65536       62856/786432   ( 8.0%) 
+nodes                 1937/65536       61984/2097152  ( 3.0%) 
+texinfos               427/16384       30744/1179648  ( 2.6%) 
+texdata                 45/8192         1440/262144   ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3470/65536      194320/3670016  ( 5.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1336/65536       74816/3670016  ( 2.0%) 
+leaves                1947/65536       62304/2097152  ( 3.0%) 
+leaffaces             4131/65536        8262/131072   ( 6.3%) 
+leafbrushes           1310/65536        2620/131072   ( 2.0%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            22382/512000      89528/2048000  ( 4.4%) 
+edges                12367/256000      49468/1024000  ( 4.8%) 
+LDR worldlights         44/8192         3872/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            427/32768        4270/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6636/65536       13272/131072   (10.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     4135884/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      171598/16777216 ( 1.0%) 
+entdata               [variable]       59064/393216   (15.0%) 
+LDR ambient table     1947/65536        7788/262144   ( 3.0%) 
+HDR ambient table     1947/65536        7788/262144   ( 3.0%) 
+LDR leaf ambient      6528/65536      182784/1835008  (10.0%) 
+HDR leaf ambient      1947/65536       54516/1835008  ( 3.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212388/0        ( 0.0%) 
+physics               [variable]      152224/4194304  ( 3.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10084
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+24 seconds elapsed
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (152224 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 620 texinfos to 427
+Reduced 48 texdatas to 45 (1209 bytes to 1090)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+ 891 portalclusters
+2456 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10480 visible clusters (2.34%)
+Total clusters visible: 448571
+Average clusters visible: 503
+Building PAS...
+Average clusters audible: 603
+visdatasize:171598  compressed from 199584
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+3470 faces
+23 degenerate faces
+1789868 square feet [257741088.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3447 patches before subdivision
+132565 patches after subdivision
+44 direct lights
+0...1...2..
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+.
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+3.
+WARNING: Too many light styles on a face at (735.000000, 5622.500000, 89.000000)
+
+WARNING: Too many light styles on a face at (732.498779, 5667.012695, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+..4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19863815, max 1065
+transfer lists: 151.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(192543, 185081, 147175)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(20902, 18854, 12845)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2285, 1994, 1193)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(291, 245, 130)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(37, 30, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(5, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0413 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/4096          432/196608   ( 0.2%) 
+brushes                427/16384        5124/196608   ( 2.6%) 
+brushsides            2842/163840      22736/1310720  ( 1.7%) 
+planes                1464/65536       29280/1310720  ( 2.2%) 
+vertexes              5238/65536       62856/786432   ( 8.0%) 
+nodes                 1937/65536       61984/2097152  ( 3.0%) 
+texinfos               427/16384       30744/1179648  ( 2.6%) 
+texdata                 45/8192         1440/262144   ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3470/65536      194320/3670016  ( 5.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1336/65536       74816/3670016  ( 2.0%) 
+leaves                1947/65536       62304/2097152  ( 3.0%) 
+leaffaces             4131/65536        8262/131072   ( 6.3%) 
+leafbrushes           1310/65536        2620/131072   ( 2.0%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            22382/512000      89528/2048000  ( 4.4%) 
+edges                12367/256000      49468/1024000  ( 4.8%) 
+LDR worldlights         44/8192         3872/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            427/32768        4270/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6636/65536       13272/131072   (10.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     4135884/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      171598/16777216 ( 1.0%) 
+entdata               [variable]       59694/393216   (15.2%) 
+LDR ambient table     1947/65536        7788/262144   ( 3.0%) 
+HDR ambient table     1947/65536        7788/262144   ( 3.0%) 
+LDR leaf ambient      6528/65536      182784/1835008  (10.0%) 
+HDR leaf ambient      1947/65536       54516/1835008  ( 3.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212388/0        ( 0.0%) 
+physics               [variable]      152224/4194304  ( 3.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10084
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+23 seconds elapsed
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (156243 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 671 texinfos to 431
+Reduced 50 texdatas to 47 (1257 bytes to 1138)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+ 830 portalclusters
+2279 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10274 visible clusters (2.27%)
+Total clusters visible: 452236
+Average clusters visible: 544
+Building PAS...
+Average clusters audible: 642
+visdatasize:157021  compressed from 172640
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+3287 faces
+26 degenerate faces
+1792094 square feet [258061536.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3261 patches before subdivision
+Zero area child patch at around -650.325195 2587.090088 751.818237
+127935 patches after subdivision
+44 direct lights
+0...1...2..
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+.
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+3
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19170461, max 1056
+transfer lists: 146.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(195408, 187577, 149413)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(21325, 19182, 13064)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2365, 2052, 1233)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(301, 250, 134)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(39, 31, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(5, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0323 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/4096          672/196608   ( 0.3%) 
+brushes                435/16384        5220/196608   ( 2.7%) 
+brushsides            2894/163840      23152/1310720  ( 1.8%) 
+planes                1516/65536       30320/1310720  ( 2.3%) 
+vertexes              5077/65536       60924/786432   ( 7.7%) 
+nodes                 1832/65536       58624/2097152  ( 2.8%) 
+texinfos               431/16384       31032/1179648  ( 2.6%) 
+texdata                 47/8192         1504/262144   ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3287/65536      184072/3670016  ( 5.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1263/65536       70728/3670016  ( 1.9%) 
+leaves                1847/65536       59104/2097152  ( 2.8%) 
+leaffaces             3912/65536        7824/131072   ( 6.0%) 
+leafbrushes           1335/65536        2670/131072   ( 2.0%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            21208/512000      84832/2048000  ( 4.1%) 
+edges                11730/256000      46920/1024000  ( 4.6%) 
+LDR worldlights         44/8192         3872/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            417/32768        4170/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6492/65536       12984/131072   ( 9.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     3966116/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      157021/16777216 ( 0.9%) 
+entdata               [variable]       69260/393216   (17.6%) 
+LDR ambient table     1847/65536        7388/262144   ( 2.8%) 
+HDR ambient table     1847/65536        7388/262144   ( 2.8%) 
+LDR leaf ambient      6869/65536      192332/1835008  (10.5%) 
+HDR leaf ambient      1847/65536       51716/1835008  ( 2.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212388/0        ( 0.0%) 
+physics               [variable]      156243/4194304  ( 3.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 9572
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+24 seconds elapsed
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (363477 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1811 texinfos to 948
+Reduced 50 texdatas to 47 (1257 bytes to 1138)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+3 seconds elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+1525 portalclusters
+3822 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 13169 visible clusters (2.25%)
+Total clusters visible: 586144
+Average clusters visible: 384
+Building PAS...
+Average clusters audible: 460
+visdatasize:310936  compressed from 585600
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+5385 faces
+154 degenerate faces
+1847630 square feet [266058784.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5231 patches before subdivision
+Zero area child patch at around -650.325195 2587.090088 751.818237
+136643 patches after subdivision
+92 direct lights
+0...1..
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+.
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+2...
+WARNING: Too many light styles on a face at (-955.324219, 4833.000000, 312.000000)
+3
+WARNING: Too many light styles on a face at (-909.000244, 4823.000000, -14.744900)
+..
+WARNING: Too many light styles on a face at (-1036.821045, 4928.000488, 312.000000)
+
+WARNING: Too many light styles on a face at (-1055.322144, 4880.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-1225.320068, 5043.500000, 396.000000)
+
+WARNING: Too many light styles on a face at (-1054.499023, 4902.000488, -14.744900)
+.
+WARNING: Too many light styles on a face at (-1073.000122, 4854.000000, -14.744900)
+
+WARNING: Too many light styles on a face at (-1243.000000, 5017.500000, 69.255074)
+4...5...6
+WARNING: Too many light styles on a face at (1300.119995, 1483.816284, 412.000000)
+
+WARNING: Too many light styles on a face at (1297.621338, 1440.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1375.320068, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1419.818237, 312.000000)
+
+WARNING: Too many light styles on a face at (1062.122559, 1471.816284, 312.000000)
+.
+WARNING: Too many light styles on a face at (1031.899292, 1401.320068, -14.744900)
+
+WARNING: Too many light styles on a face at (1031.899414, 1445.818115, -14.744900)
+
+WARNING: Too many light styles on a face at (1095.798706, 1497.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1129.299438, 1450.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1303.798706, 1466.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1317.800049, 1287.318237, 69.255127)
+..
+WARNING: Too many light styles on a face at (982.122559, 1455.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (951.798767, 1465.816162, -14.744900)
+7...8...
+WARNING: Too many light styles on a face at (-792.208252, 626.255005, 312.000000)
+
+WARNING: Too many light styles on a face at (-945.208496, 529.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1022.081116, 624.801514, 312.000000)
+
+WARNING: Too many light styles on a face at (-789.702881, 581.734192, 312.000000)
+9
+WARNING: Too many light styles on a face at (-962.884766, 503.755249, -14.744900)
+.
+WARNING: Too many light styles on a face at (-1028.604248, 624.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1045.209229, 576.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1215.209961, 740.255127, 396.000000)
+.
+WARNING: Too many light styles on a face at (-1232.880127, 491.755249, 85.255127)
+
+WARNING: Too many light styles on a face at (-1230.382324, 534.755249, -14.744900)
+.100...1...2...3...4...5...6...7...8...9...10transfers 20360245, max 1076
+transfer lists: 155.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(204833, 196808, 156817)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(22178, 19932, 13590)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2509, 2178, 1314)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(316, 263, 141)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(41, 33, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0808 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  68/4096         3264/196608   ( 1.7%) 
+brushes                957/16384       11484/196608   ( 5.8%) 
+brushsides            6315/163840      50520/1310720  ( 3.9%) 
+planes                3550/65536       71000/1310720  ( 5.4%) 
+vertexes              9282/65536      111384/786432   (14.2%) 
+nodes                 3343/65536      106976/2097152  ( 5.1%) 
+texinfos               948/16384       68256/1179648  ( 5.8%) 
+texdata                 47/8192         1504/262144   ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5385/65536      301560/3670016  ( 8.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2472/65536      138432/3670016  ( 3.8%) 
+leaves                3412/65536      109184/2097152  ( 5.2%) 
+leaffaces             6476/65536       12952/131072   ( 9.9%) 
+leafbrushes           2599/65536        5198/131072   ( 4.0%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges            37646/512000     150584/2048000  ( 7.4%) 
+edges                21364/256000      85456/1024000  ( 8.3%) 
+LDR worldlights         92/8192         8096/720896   ( 1.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            826/32768        8260/327680   ( 2.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12822/65536       25644/131072   (19.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     5249036/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      310936/16777216 ( 1.9%) 
+entdata               [variable]      223130/393216   (56.7%) 
+LDR ambient table     3412/65536       13648/262144   ( 5.2%) 
+HDR ambient table     3412/65536       13648/262144   ( 5.2%) 
+LDR leaf ambient      8563/65536      239764/1835008  (13.1%) 
+HDR leaf ambient      3412/65536       95536/1835008  ( 5.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212388/0        ( 0.0%) 
+physics               [variable]      363477/4194304  ( 8.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 16834
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+55 seconds elapsed
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (526938 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2836 texinfos to 1622
+Reduced 63 texdatas to 59 (1581 bytes to 1420)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+2332 portalclusters
+6008 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 149050 visible clusters (8.36%)
+Total clusters visible: 1782500
+Average clusters visible: 764
+Building PAS...
+Average clusters audible: 1119
+visdatasize:868219  compressed from 1380544
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+8341 faces
+154 degenerate faces
+1921414 square feet [276683712.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8187 patches before subdivision
+Zero area child patch at around -650.325195 2587.090088 751.818237
+155633 patches after subdivision
+103 direct lights
+0...1...2..
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+.
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+3.
+WARNING: Too many light styles on a face at (-955.324219, 4833.000000, 312.000000)
+.
+WARNING: Too many light styles on a face at (-909.000244, 4823.000000, -14.744900)
+.
+WARNING: Too many light styles on a face at (-1036.821045, 4928.000488, 312.000000)
+
+WARNING: Too many light styles on a face at (-1055.322144, 4880.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-1225.320068, 5043.500000, 396.000000)
+4
+WARNING: Too many light styles on a face at (-1054.477661, 4902.012695, -14.744900)
+
+WARNING: Too many light styles on a face at (-1243.000000, 5017.500000, 69.255074)
+
+WARNING: Too many light styles on a face at (-1073.000122, 4854.000000, -14.744900)
+...5...6...7.
+WARNING: Too many light styles on a face at (1300.119995, 1483.816284, 412.000000)
+
+WARNING: Too many light styles on a face at (1297.621338, 1440.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1375.320068, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1419.818237, 312.000000)
+
+WARNING: Too many light styles on a face at (1062.122559, 1471.816284, 312.000000)
+.
+WARNING: Too many light styles on a face at (1031.899292, 1401.320068, -14.744900)
+
+WARNING: Too many light styles on a face at (1031.899414, 1445.818115, -14.744900)
+
+WARNING: Too many light styles on a face at (1095.798706, 1497.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1129.299438, 1450.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1303.798706, 1466.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1317.800049, 1287.318237, 69.255127)
+
+WARNING: Too many light styles on a face at (982.122559, 1455.816284, 312.000000)
+.
+WARNING: Too many light styles on a face at (951.798767, 1465.816162, -14.744900)
+8...9
+WARNING: Too many light styles on a face at (-792.208252, 626.255005, 312.000000)
+
+WARNING: Too many light styles on a face at (-945.208496, 529.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1022.081116, 624.801514, 312.000000)
+
+WARNING: Too many light styles on a face at (-789.702881, 581.734192, 312.000000)
+.
+WARNING: Too many light styles on a face at (-962.884766, 503.755249, -14.744900)
+
+WARNING: Too many light styles on a face at (-1028.604248, 624.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1045.209229, 576.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1215.209961, 740.255127, 396.000000)
+.
+WARNING: Too many light styles on a face at (-1232.880127, 491.755249, 85.255127)
+
+WARNING: Too many light styles on a face at (-1230.382324, 534.755249, -14.744900)
+.100...1...2...3...4...5...6...7...8...9...10transfers 30166613, max 1248
+transfer lists: 230.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(121918, 113953, 86221)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(12472, 11170, 6533)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1903, 1716, 913)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(271, 245, 115)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(46, 42, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 7, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0569 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  91/4096         4368/196608   ( 2.2%) 
+brushes               1397/16384       16764/196608   ( 8.5%) 
+brushsides            9425/163840      75400/1310720  ( 5.8%) 
+planes                5270/65536      105400/1310720  ( 8.0%) 
+vertexes             13592/65536      163104/786432   (20.7%) 
+nodes                 5032/65536      161024/2097152  ( 7.7%) 
+texinfos              1622/16384      116784/1179648  ( 9.9%) 
+texdata                 59/8192         1888/262144   ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 8341/65536      467096/3670016  (12.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3934/65536      220304/3670016  ( 6.0%) 
+leaves                5124/65536      163968/2097152  ( 7.8%) 
+leaffaces             9860/65536       19720/131072   (15.0%) 
+leafbrushes           3610/65536        7220/131072   ( 5.5%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges            57820/512000     231280/2048000  (11.3%) 
+edges                32662/256000     130648/1024000  (12.8%) 
+LDR worldlights        103/8192         9064/720896   ( 1.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1132/32768       11320/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         17745/65536       35490/131072   (27.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     5278340/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      868219/16777216 ( 5.2%) 
+entdata               [variable]      266044/393216   (67.7%) 
+LDR ambient table     5124/65536       20496/262144   ( 7.8%) 
+HDR ambient table     5124/65536       20496/262144   ( 7.8%) 
+LDR leaf ambient     10799/65536      302372/1835008  (16.5%) 
+HDR leaf ambient      5124/65536      143472/1835008  ( 7.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212697/0        ( 0.0%) 
+physics               [variable]      526938/4194304  (12.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 25281
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+43 seconds elapsed
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (550944 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2959 texinfos to 1664
+Reduced 66 texdatas to 62 (1648 bytes to 1487)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+2422 portalclusters
+6359 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 173036 visible clusters (8.59%)
+Total clusters visible: 2013326
+Average clusters visible: 831
+Building PAS...
+Average clusters audible: 1201
+visdatasize:947527  compressed from 1472576
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+8544 faces
+154 degenerate faces
+1928066 square feet [277641536.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8390 patches before subdivision
+Zero area child patch at around -650.325195 2587.090088 751.818237
+157516 patches after subdivision
+1042 direct lights
+0...1...2..
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+.
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+3..
+WARNING: Too many light styles on a face at (-955.324219, 4833.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-909.000244, 4823.000000, -14.744900)
+.
+WARNING: Too many light styles on a face at (-1036.821045, 4928.000488, 312.000000)
+
+WARNING: Too many light styles on a face at (-1055.322144, 4880.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-1225.320068, 5043.500000, 396.000000)
+4
+WARNING: Too many light styles on a face at (-1054.477661, 4902.012695, -14.744900)
+
+WARNING: Too many light styles on a face at (-1243.000000, 5017.500000, 69.255074)
+
+WARNING: Too many light styles on a face at (-1073.000122, 4854.000000, -14.744900)
+...5...6...7.
+WARNING: Too many light styles on a face at (1300.119995, 1483.816284, 412.000000)
+
+WARNING: Too many light styles on a face at (1297.621338, 1440.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1375.320068, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1419.818237, 312.000000)
+
+WARNING: Too many light styles on a face at (1062.122559, 1471.816284, 312.000000)
+.
+WARNING: Too many light styles on a face at (1031.899292, 1401.320068, -14.744900)
+
+WARNING: Too many light styles on a face at (1031.899414, 1445.818115, -14.744900)
+
+WARNING: Too many light styles on a face at (1095.798706, 1497.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1129.299438, 1450.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1303.798706, 1466.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1317.800049, 1287.318237, 69.255127)
+.
+WARNING: Too many light styles on a face at (982.122559, 1455.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (951.798767, 1465.816162, -14.744900)
+8...9
+WARNING: Too many light styles on a face at (-945.208496, 529.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-792.208252, 626.255005, 312.000000)
+
+WARNING: Too many light styles on a face at (-789.702881, 581.734192, 312.000000)
+
+WARNING: Too many light styles on a face at (-1022.081116, 624.801514, 312.000000)
+.
+WARNING: Too many light styles on a face at (-962.884766, 503.755249, -14.744900)
+
+WARNING: Too many light styles on a face at (-1028.604248, 624.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1045.209229, 576.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1215.209961, 740.255127, 396.000000)
+.
+WARNING: Too many light styles on a face at (-1232.880127, 491.755249, 85.255127)
+
+WARNING: Too many light styles on a face at (-1230.382324, 534.755249, -14.744900)
+.100...1...2...3...4...5...6...7...8...9...10transfers 31778480, max 1232
+transfer lists: 242.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1821038, 1975776, 1828719)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(272960, 312923, 263999)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(42416, 48628, 37548)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6690, 8085, 5689)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1089, 1322, 851)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(176, 224, 132)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(29, 38, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 6, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0619 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 570 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 103/4096         4944/196608   ( 2.5%) 
+brushes               1456/16384       17472/196608   ( 8.9%) 
+brushsides            9779/163840      78232/1310720  ( 6.0%) 
+planes                5464/65536      109280/1310720  ( 8.3%) 
+vertexes             14089/65536      169068/786432   (21.5%) 
+nodes                 5210/65536      166720/2097152  ( 7.9%) 
+texinfos              1664/16384      119808/1179648  (10.2%) 
+texdata                 62/8192         1984/262144   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 8544/65536      478464/3670016  (13.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4068/65536      227808/3670016  ( 6.2%) 
+leaves                5314/65536      170048/2097152  ( 8.1%) 
+leaffaces            10124/65536       20248/131072   (15.4%) 
+leafbrushes           3741/65536        7482/131072   ( 5.7%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges            59322/512000     237288/2048000  (11.6%) 
+edges                33677/256000     134708/1024000  (13.2%) 
+LDR worldlights       1042/8192        91696/720896   (12.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1142/32768       11420/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         17952/65536       35904/131072   (27.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     5726500/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      947527/16777216 ( 5.6%) 
+entdata               [variable]      414533/393216   (105.4%) VERY FULL!
+LDR ambient table     5314/65536       21256/262144   ( 8.1%) 
+HDR ambient table     5314/65536       21256/262144   ( 8.1%) 
+LDR leaf ambient     15246/65536      426888/1835008  (23.3%) 
+HDR leaf ambient      5314/65536      148792/1835008  ( 8.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212697/0        ( 0.0%) 
+physics               [variable]      550944/4194304  (13.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 25841
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+1 minute, 4 seconds elapsed
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (550928 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2959 texinfos to 1661
+Reduced 66 texdatas to 62 (1648 bytes to 1487)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+2417 portalclusters
+6376 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 170117 visible clusters (8.50%)
+Total clusters visible: 2001174
+Average clusters visible: 827
+Building PAS...
+Average clusters audible: 1193
+visdatasize:939202  compressed from 1469536
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+8500 faces
+154 degenerate faces
+1927482 square feet [277557504.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8346 patches before subdivision
+Zero area child patch at around -650.325195 2587.090088 751.818237
+157528 patches after subdivision
+677 direct lights
+0...1...2..
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+.
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+3..
+WARNING: Too many light styles on a face at (-955.324219, 4833.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-909.000244, 4823.000000, -14.744900)
+.
+WARNING: Too many light styles on a face at (-1036.821045, 4928.000488, 312.000000)
+
+WARNING: Too many light styles on a face at (-1055.322144, 4880.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-1225.320068, 5043.500000, 396.000000)
+4
+WARNING: Too many light styles on a face at (-1054.477661, 4902.012695, -14.744900)
+
+WARNING: Too many light styles on a face at (-1243.000000, 5017.500000, 69.255074)
+
+WARNING: Too many light styles on a face at (-1073.000122, 4854.000000, -14.744900)
+...5...6...7.
+WARNING: Too many light styles on a face at (1300.119995, 1483.816284, 412.000000)
+
+WARNING: Too many light styles on a face at (1297.621338, 1440.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1375.320068, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1419.818237, 312.000000)
+
+WARNING: Too many light styles on a face at (1062.122559, 1471.816284, 312.000000)
+.
+WARNING: Too many light styles on a face at (1031.899292, 1401.320068, -14.744900)
+
+WARNING: Too many light styles on a face at (1031.899414, 1445.818115, -14.744900)
+
+WARNING: Too many light styles on a face at (1095.798706, 1497.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1129.299438, 1450.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1303.798706, 1466.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1317.800049, 1287.318237, 69.255127)
+.
+WARNING: Too many light styles on a face at (982.122559, 1455.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (951.798767, 1465.816162, -14.744900)
+8...9
+WARNING: Too many light styles on a face at (-945.208496, 529.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-792.208252, 626.255005, 312.000000)
+
+WARNING: Too many light styles on a face at (-789.702881, 581.734192, 312.000000)
+
+WARNING: Too many light styles on a face at (-1022.081116, 624.801514, 312.000000)
+.
+WARNING: Too many light styles on a face at (-962.884766, 503.755249, -14.744900)
+
+WARNING: Too many light styles on a face at (-1028.604248, 624.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1045.209229, 576.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1215.209961, 740.255127, 396.000000)
+.
+WARNING: Too many light styles on a face at (-1232.880127, 491.755249, 85.255127)
+
+WARNING: Too many light styles on a face at (-1230.382324, 534.755249, -14.744900)
+.100...1...2...3...4...5...6...7...8...9...10transfers 31774723, max 1225
+transfer lists: 242.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(464037, 597739, 543756)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(80772, 116075, 95881)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(11475, 16329, 12413)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2069, 3196, 2213)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(308, 473, 302)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(55, 91, 53)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(9, 14, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 3, 1)
+0...1...2...3...4...5...6...7...8...9.
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (550928 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2959 texinfos to 1661
+Reduced 66 texdatas to 62 (1648 bytes to 1487)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+2413 portalclusters
+6361 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 171789 visible clusters (8.60%)
+Total clusters visible: 1996928
+Average clusters visible: 827
+Building PAS...
+Average clusters audible: 1190
+visdatasize:941744  compressed from 1467104
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+8506 faces
+154 degenerate faces
+1927483 square feet [277557568.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8352 patches before subdivision
+Zero area child patch at around -650.325195 2587.090088 751.818237
+157022 patches after subdivision
+653 direct lights
+0...1...2..
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+.
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+3..
+WARNING: Too many light styles on a face at (-955.324219, 4833.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-909.000244, 4823.000000, -14.744900)
+.
+WARNING: Too many light styles on a face at (-1036.821045, 4928.000488, 312.000000)
+
+WARNING: Too many light styles on a face at (-1055.322144, 4880.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-1225.320068, 5043.500000, 396.000000)
+4
+WARNING: Too many light styles on a face at (-1054.477661, 4902.012695, -14.744900)
+
+WARNING: Too many light styles on a face at (-1243.000000, 5017.500000, 69.255074)
+
+WARNING: Too many light styles on a face at (-1073.000122, 4854.000000, -14.744900)
+...5...6...7.
+WARNING: Too many light styles on a face at (1300.119995, 1483.816284, 412.000000)
+
+WARNING: Too many light styles on a face at (1297.621338, 1440.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1375.320068, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1419.818237, 312.000000)
+
+WARNING: Too many light styles on a face at (1062.122559, 1471.816284, 312.000000)
+.
+WARNING: Too many light styles on a face at (1031.899292, 1401.320068, -14.744900)
+
+WARNING: Too many light styles on a face at (1031.899414, 1445.818115, -14.744900)
+
+WARNING: Too many light styles on a face at (1095.798706, 1497.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1129.299438, 1450.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1303.798706, 1466.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1317.800049, 1287.318237, 69.255127)
+.
+WARNING: Too many light styles on a face at (982.122559, 1455.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (951.798767, 1465.816162, -14.744900)
+8...9
+WARNING: Too many light styles on a face at (-945.208496, 529.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-792.208252, 626.255005, 312.000000)
+
+WARNING: Too many light styles on a face at (-789.702881, 581.734192, 312.000000)
+
+WARNING: Too many light styles on a face at (-1022.081116, 624.801514, 312.000000)
+.
+WARNING: Too many light styles on a face at (-962.884766, 503.755249, -14.744900)
+
+WARNING: Too many light styles on a face at (-1028.604248, 624.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1045.209229, 576.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1215.209961, 740.255127, 396.000000)
+.
+WARNING: Too many light styles on a face at (-1232.880127, 491.755249, 85.255127)
+
+WARNING: Too many light styles on a face at (-1230.382324, 534.755249, -14.744900)
+.100...1...2...3...4...5...6...7...8...9...10transfers 31666314, max 1227
+transfer lists: 241.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(457803, 588793, 535588)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(79858, 114577, 94700)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(11358, 16140, 12278)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2050, 3160, 2190)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(305, 467, 299)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(55, 90, 52)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(8, 14, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0603 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 514 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 103/4096         4944/196608   ( 2.5%) 
+brushes               1456/16384       17472/196608   ( 8.9%) 
+brushsides            9779/163840      78232/1310720  ( 6.0%) 
+planes                5466/65536      109320/1310720  ( 8.3%) 
+vertexes             14061/65536      168732/786432   (21.5%) 
+nodes                 5194/65536      166208/2097152  ( 7.9%) 
+texinfos              1661/16384      119592/1179648  (10.1%) 
+texdata                 62/8192         1984/262144   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 8506/65536      476336/3670016  (13.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4063/65536      227528/3670016  ( 6.2%) 
+leaves                5298/65536      169536/2097152  ( 8.1%) 
+leaffaces            10086/65536       20172/131072   (15.4%) 
+leafbrushes           3733/65536        7466/131072   ( 5.7%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges            59118/512000     236472/2048000  (11.5%) 
+edges                33570/256000     134280/1024000  (13.1%) 
+LDR worldlights        653/8192        57464/720896   ( 8.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1136/32768       11360/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         17817/65536       35634/131072   (27.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     5723784/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      941744/16777216 ( 5.6%) 
+entdata               [variable]      301777/393216   (76.7%) 
+LDR ambient table     5298/65536       21192/262144   ( 8.1%) 
+HDR ambient table     5298/65536       21192/262144   ( 8.1%) 
+LDR leaf ambient     15069/65536      421932/1835008  (23.0%) 
+HDR leaf ambient      5298/65536      148344/1835008  ( 8.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212697/0        ( 0.0%) 
+physics               [variable]      550928/4194304  (13.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 25733
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+54 seconds elapsed
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (561904 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3016 texinfos to 1715
+Reduced 67 texdatas to 63 (1668 bytes to 1507)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+2458 portalclusters
+6513 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 195118 visible clusters (9.45%)
+Total clusters visible: 2063874
+Average clusters visible: 839
+Building PAS...
+Average clusters audible: 1226
+visdatasize:971183  compressed from 1533792
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+8657 faces
+154 degenerate faces
+1927557 square feet [277568256.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8503 patches before subdivision
+Zero area child patch at around -650.325195 2587.090088 751.818237
+156919 patches after subdivision
+644 direct lights
+0...1...2...
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+3..
+WARNING: Too many light styles on a face at (-955.324219, 4833.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-909.000244, 4823.000000, -14.744900)
+.
+WARNING: Too many light styles on a face at (-1036.821045, 4928.000488, 312.000000)
+
+WARNING: Too many light styles on a face at (-1055.322144, 4880.000000, 312.000000)
+4
+WARNING: Too many light styles on a face at (-1225.320068, 5043.500000, 396.000000)
+
+WARNING: Too many light styles on a face at (-1054.477661, 4902.012695, -14.744900)
+
+WARNING: Too many light styles on a face at (-1243.000000, 5017.500000, 69.255074)
+
+WARNING: Too many light styles on a face at (-1073.000122, 4854.000000, -14.744900)
+...5...6...7.
+WARNING: Too many light styles on a face at (1300.119995, 1483.816284, 412.000000)
+
+WARNING: Too many light styles on a face at (1297.621338, 1440.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1375.320068, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1419.818237, 312.000000)
+
+WARNING: Too many light styles on a face at (1062.122559, 1471.816284, 312.000000)
+.
+WARNING: Too many light styles on a face at (1031.899292, 1401.320068, -14.744900)
+
+WARNING: Too many light styles on a face at (1031.899414, 1445.818115, -14.744900)
+
+WARNING: Too many light styles on a face at (1095.798706, 1497.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1129.299438, 1450.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1303.798706, 1466.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1317.800049, 1287.318237, 69.255127)
+.
+WARNING: Too many light styles on a face at (982.122559, 1455.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (951.798767, 1465.816162, -14.744900)
+8...9
+WARNING: Too many light styles on a face at (-945.208496, 529.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-792.208252, 626.255005, 312.000000)
+
+WARNING: Too many light styles on a face at (-789.702881, 581.734192, 312.000000)
+
+WARNING: Too many light styles on a face at (-1022.081116, 624.801514, 312.000000)
+.
+WARNING: Too many light styles on a face at (-962.884766, 503.755249, -14.744900)
+
+WARNING: Too many light styles on a face at (-1028.604248, 624.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1045.209229, 576.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1215.209961, 740.255127, 396.000000)
+.
+WARNING: Too many light styles on a face at (-1232.880127, 491.755249, 85.255127)
+
+WARNING: Too many light styles on a face at (-1230.382324, 534.755249, -14.744900)
+.100...1...2...3...4...5...6...7...8...9...10transfers 31871966, max 1250
+transfer lists: 243.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(423728, 554517, 503580)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(75327, 110027, 90798)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10655, 15419, 11713)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1950, 3058, 2117)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(289, 450, 287)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(52, 87, 51)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(8, 13, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0404 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 514 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 103/4096         4944/196608   ( 2.5%) 
+brushes               1488/16384       17856/196608   ( 9.1%) 
+brushsides            9971/163840      79768/1310720  ( 6.1%) 
+planes                5470/65536      109400/1310720  ( 8.3%) 
+vertexes             14217/65536      170604/786432   (21.7%) 
+nodes                 5259/65536      168288/2097152  ( 8.0%) 
+texinfos              1715/16384      123480/1179648  (10.5%) 
+texdata                 63/8192         2016/262144   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 8657/65536      484792/3670016  (13.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4222/65536      236432/3670016  ( 6.4%) 
+leaves                5363/65536      171616/2097152  ( 8.2%) 
+leaffaces            10298/65536       20596/131072   (15.7%) 
+leafbrushes           3773/65536        7546/131072   ( 5.8%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges            60494/512000     241976/2048000  (11.8%) 
+edges                34371/256000     137484/1024000  (13.4%) 
+LDR worldlights        644/8192        56672/720896   ( 7.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1158/32768       11580/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18279/65536       36558/131072   (27.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     5782792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      971183/16777216 ( 5.8%) 
+entdata               [variable]      298758/393216   (76.0%) 
+LDR ambient table     5363/65536       21452/262144   ( 8.2%) 
+HDR ambient table     5363/65536       21452/262144   ( 8.2%) 
+LDR leaf ambient     15219/65536      426132/1835008  (23.2%) 
+HDR leaf ambient      5363/65536      150164/1835008  ( 8.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212697/0        ( 0.0%) 
+physics               [variable]      561904/4194304  (13.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 26171
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+1 minute, 4 seconds elapsed
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (561904 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3016 texinfos to 1715
+Reduced 67 texdatas to 63 (1668 bytes to 1507)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+2458 portalclusters
+6513 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 195118 visible clusters (9.45%)
+Total clusters visible: 2063874
+Average clusters visible: 839
+Building PAS...
+Average clusters audible: 1226
+visdatasize:971183  compressed from 1533792
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+8657 faces
+154 degenerate faces
+1927557 square feet [277568256.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8503 patches before subdivision
+Zero area child patch at around -650.325195 2587.090088 751.818237
+156919 patches after subdivision
+628 direct lights
+0...1...2...
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+3..
+WARNING: Too many light styles on a face at (-955.324219, 4833.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-909.000244, 4823.000000, -14.744900)
+.
+WARNING: Too many light styles on a face at (-1036.821045, 4928.000488, 312.000000)
+
+WARNING: Too many light styles on a face at (-1055.322144, 4880.000000, 312.000000)
+4
+WARNING: Too many light styles on a face at (-1225.320068, 5043.500000, 396.000000)
+
+WARNING: Too many light styles on a face at (-1054.477661, 4902.012695, -14.744900)
+
+WARNING: Too many light styles on a face at (-1243.000000, 5017.500000, 69.255074)
+
+WARNING: Too many light styles on a face at (-1073.000122, 4854.000000, -14.744900)
+...5...6...7.
+WARNING: Too many light styles on a face at (1300.119995, 1483.816284, 412.000000)
+
+WARNING: Too many light styles on a face at (1297.621338, 1440.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1375.320068, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1419.818237, 312.000000)
+
+WARNING: Too many light styles on a face at (1062.122559, 1471.816284, 312.000000)
+.
+WARNING: Too many light styles on a face at (1031.899292, 1401.320068, -14.744900)
+
+WARNING: Too many light styles on a face at (1031.899414, 1445.818115, -14.744900)
+
+WARNING: Too many light styles on a face at (1095.798706, 1497.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1129.299438, 1450.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1303.798706, 1466.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1317.800049, 1287.318237, 69.255127)
+.
+WARNING: Too many light styles on a face at (982.122559, 1455.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (951.798767, 1465.816162, -14.744900)
+8...9
+WARNING: Too many light styles on a face at (-945.208496, 529.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-792.208252, 626.255005, 312.000000)
+
+WARNING: Too many light styles on a face at (-789.702881, 581.734192, 312.000000)
+
+WARNING: Too many light styles on a face at (-1022.081116, 624.801514, 312.000000)
+.
+WARNING: Too many light styles on a face at (-962.884766, 503.755249, -14.744900)
+
+WARNING: Too many light styles on a face at (-1028.604248, 624.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1045.209229, 576.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1215.209961, 740.255127, 396.000000)
+.
+WARNING: Too many light styles on a face at (-1230.382324, 534.755249, -14.744900)
+
+WARNING: Too many light styles on a face at (-1232.880127, 491.755249, 85.255127)
+.100...1...2...3...4...5...6...7...8...9...10transfers 31871966, max 1250
+transfer lists: 243.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(358138, 488153, 441658)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(65863, 100419, 82590)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9099, 13805, 10456)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1717, 2813, 1943)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(249, 407, 259)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(46, 80, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(7, 12, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0411 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 514 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 103/4096         4944/196608   ( 2.5%) 
+brushes               1488/16384       17856/196608   ( 9.1%) 
+brushsides            9971/163840      79768/1310720  ( 6.1%) 
+planes                5470/65536      109400/1310720  ( 8.3%) 
+vertexes             14217/65536      170604/786432   (21.7%) 
+nodes                 5259/65536      168288/2097152  ( 8.0%) 
+texinfos              1715/16384      123480/1179648  (10.5%) 
+texdata                 63/8192         2016/262144   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 8657/65536      484792/3670016  (13.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4222/65536      236432/3670016  ( 6.4%) 
+leaves                5363/65536      171616/2097152  ( 8.2%) 
+leaffaces            10298/65536       20596/131072   (15.7%) 
+leafbrushes           3773/65536        7546/131072   ( 5.8%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges            60494/512000     241976/2048000  (11.8%) 
+edges                34371/256000     137484/1024000  (13.4%) 
+LDR worldlights        628/8192        55264/720896   ( 7.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1158/32768       11580/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18279/65536       36558/131072   (27.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     5782792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      971183/16777216 ( 5.8%) 
+entdata               [variable]      293338/393216   (74.6%) 
+LDR ambient table     5363/65536       21452/262144   ( 8.2%) 
+HDR ambient table     5363/65536       21452/262144   ( 8.2%) 
+LDR leaf ambient     15197/65536      425516/1835008  (23.2%) 
+HDR leaf ambient      5363/65536      150164/1835008  ( 8.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212697/0        ( 0.0%) 
+physics               [variable]      561904/4194304  (13.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 26171
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+1 minute, 8 seconds elapsed
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (561904 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3019 texinfos to 1716
+Reduced 68 texdatas to 64 (1698 bytes to 1537)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+2458 portalclusters
+6513 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 195118 visible clusters (9.45%)
+Total clusters visible: 2063874
+Average clusters visible: 839
+Building PAS...
+Average clusters audible: 1226
+visdatasize:971183  compressed from 1533792
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+8677 faces
+154 degenerate faces
+1927557 square feet [277568256.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8523 patches before subdivision
+Zero area child patch at around -650.325195 2587.090088 751.818237
+157829 patches after subdivision
+627 direct lights
+0...1...2...
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+3..
+WARNING: Too many light styles on a face at (-955.324219, 4833.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-909.000244, 4823.000000, -14.744900)
+.
+WARNING: Too many light styles on a face at (-1036.821045, 4928.000488, 312.000000)
+
+WARNING: Too many light styles on a face at (-1055.322144, 4880.000000, 312.000000)
+4
+WARNING: Too many light styles on a face at (-1225.320068, 5043.500000, 396.000000)
+
+WARNING: Too many light styles on a face at (-1054.477661, 4902.012695, -14.744900)
+
+WARNING: Too many light styles on a face at (-1243.000000, 5017.500000, 69.255074)
+
+WARNING: Too many light styles on a face at (-1073.000122, 4854.000000, -14.744900)
+...5...6...7.
+WARNING: Too many light styles on a face at (1300.119995, 1483.816284, 412.000000)
+
+WARNING: Too many light styles on a face at (1297.621338, 1440.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1375.320068, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1419.818237, 312.000000)
+
+WARNING: Too many light styles on a face at (1062.122559, 1471.816284, 312.000000)
+.
+WARNING: Too many light styles on a face at (1031.899292, 1401.320068, -14.744900)
+
+WARNING: Too many light styles on a face at (1031.899414, 1445.818115, -14.744900)
+
+WARNING: Too many light styles on a face at (1095.798706, 1497.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1129.299438, 1450.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1303.798706, 1466.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1317.800049, 1287.318237, 69.255127)
+.
+WARNING: Too many light styles on a face at (982.122559, 1455.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (951.798767, 1465.816162, -14.744900)
+8...9
+WARNING: Too many light styles on a face at (-945.208496, 529.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-792.208252, 626.255005, 312.000000)
+
+WARNING: Too many light styles on a face at (-789.702881, 581.734192, 312.000000)
+
+WARNING: Too many light styles on a face at (-1022.081116, 624.801514, 312.000000)
+.
+WARNING: Too many light styles on a face at (-962.884766, 503.755249, -14.744900)
+
+WARNING: Too many light styles on a face at (-1028.604248, 624.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1045.209229, 576.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1215.209961, 740.255127, 396.000000)
+.
+WARNING: Too many light styles on a face at (-1232.880127, 491.755249, 85.255127)
+
+WARNING: Too many light styles on a face at (-1230.382324, 534.755249, -14.744900)
+.100...1...2...3...4...5...6...7...8...9...10transfers 32203865, max 1250
+transfer lists: 245.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3867151, 4542090, 2027913)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(674428, 829262, 306014)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(89242, 109871, 37005)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(14421, 18450, 5287)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1977, 2540, 664)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(310, 412, 93)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(44, 59, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(7, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0446 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 514 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 103/4096         4944/196608   ( 2.5%) 
+brushes               1488/16384       17856/196608   ( 9.1%) 
+brushsides            9971/163840      79768/1310720  ( 6.1%) 
+planes                5470/65536      109400/1310720  ( 8.3%) 
+vertexes             14230/65536      170760/786432   (21.7%) 
+nodes                 5259/65536      168288/2097152  ( 8.0%) 
+texinfos              1716/16384      123552/1179648  (10.5%) 
+texdata                 64/8192         2048/262144   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 8677/65536      485912/3670016  (13.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4222/65536      236432/3670016  ( 6.4%) 
+leaves                5363/65536      171616/2097152  ( 8.2%) 
+leaffaces            10318/65536       20636/131072   (15.7%) 
+leafbrushes           3773/65536        7546/131072   ( 5.8%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges            60560/512000     242240/2048000  (11.8%) 
+edges                34404/256000     137616/1024000  (13.4%) 
+LDR worldlights        627/8192        55176/720896   ( 7.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1166/32768       11660/327680   ( 3.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18330/65536       36660/131072   (28.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     5802160/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      971183/16777216 ( 5.8%) 
+entdata               [variable]      292999/393216   (74.5%) 
+LDR ambient table     5363/65536       21452/262144   ( 8.2%) 
+HDR ambient table     5363/65536       21452/262144   ( 8.2%) 
+LDR leaf ambient     15832/65536      443296/1835008  (24.2%) 
+HDR leaf ambient      5363/65536      150164/1835008  ( 8.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212697/0        ( 0.0%) 
+physics               [variable]      561904/4194304  (13.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 26197
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+1 minute, 8 seconds elapsed
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (561904 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3019 texinfos to 1716
+Reduced 68 texdatas to 64 (1698 bytes to 1537)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+2458 portalclusters
+6513 numportals
+0...1...2...3...4...5...6...7...8...9...100
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (559592 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3039 texinfos to 1760
+Reduced 67 texdatas to 63 (1671 bytes to 1510)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+2518 portalclusters
+6762 numportals
+0...1...2...3...4...5...6...7...8...9...100
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (559592 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3039 texinfos to 1760
+Reduced 67 texdatas to 63 (1671 bytes to 1510)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+9 seconds elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+2518 portalclusters
+6762 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 205022 visible clusters (9.13%)
+Total clusters visible: 2244538
+Average clusters visible: 891
+Building PAS...
+Average clusters audible: 1280
+visdatasize:1030042  compressed from 1611520
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+8861 faces
+154 degenerate faces
+1925417 square feet [277260096.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8707 patches before subdivision
+Zero area child patch at around -650.325195 2587.090088 751.818237
+157973 patches after subdivision
+148 direct lights
+0...1...2...
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+3
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+..
+WARNING: Too many light styles on a face at (-955.324219, 4833.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-909.000244, 4823.000000, -14.744900)
+.
+WARNING: Too many light styles on a face at (-1036.821045, 4928.000488, 312.000000)
+4
+WARNING: Too many light styles on a face at (-1055.322144, 4880.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-1225.320068, 5043.500000, 396.000000)
+
+WARNING: Too many light styles on a face at (-1054.477661, 4902.012695, -14.744900)
+
+WARNING: Too many light styles on a face at (-1243.000000, 5017.500000, 69.255074)
+
+WARNING: Too many light styles on a face at (-1073.000122, 4854.000000, -14.744900)
+...5...6...7.
+WARNING: Too many light styles on a face at (1300.119995, 1483.816284, 412.000000)
+
+WARNING: Too many light styles on a face at (1297.621338, 1440.816284, 312.000000)
+.
+WARNING: Too many light styles on a face at (1031.061279, 1375.320068, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1419.818237, 312.000000)
+
+WARNING: Too many light styles on a face at (1062.122559, 1471.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.899292, 1401.320068, -14.744900)
+
+WARNING: Too many light styles on a face at (1031.899414, 1445.818115, -14.744900)
+
+WARNING: Too many light styles on a face at (1095.798706, 1497.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1129.299438, 1450.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1303.798706, 1466.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1317.800049, 1287.318237, 69.255127)
+.
+WARNING: Too many light styles on a face at (982.122559, 1455.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (951.798767, 1465.816162, -14.744900)
+8...9
+WARNING: Too many light styles on a face at (-945.208496, 529.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-792.208252, 626.255005, 312.000000)
+
+WARNING: Too many light styles on a face at (-789.702881, 581.734192, 312.000000)
+
+WARNING: Too many light styles on a face at (-1022.081116, 624.801514, 312.000000)
+.
+WARNING: Too many light styles on a face at (-962.884766, 503.755249, -14.744900)
+
+WARNING: Too many light styles on a face at (-1028.604248, 624.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1045.209229, 576.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1215.209961, 740.255127, 396.000000)
+.
+WARNING: Too many light styles on a face at (-1232.880127, 491.755249, 85.255127)
+
+WARNING: Too many light styles on a face at (-1230.382324, 534.755249, -14.744900)
+.100
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+...1...2...3...4...5...6...7...8...9...10transfers 33757182, max 1422
+transfer lists: 257.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(107462, 99040, 80362)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(9748, 8476, 5638)
+0done (2) (559592 bytes)
+Placing detail props : 0...1...2......1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1347, 1173, 737)
+03...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3039 texinfos to 1760
+Reduced 67 texdatas to 63 (1671 bytes to 1510)
+...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(166, 140, 83)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(25, 21, 13)
+0Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+13 seconds elapsed
+...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 3, 2)
+0
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+2518 portalclusters
+6762 numportals
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1052 sec>
+0...1...2...3...4...5...6...7...8...9...10Optimized: 205022 visible clusters (9.13%)
+Total clusters visible: 2244538
+Average clusters visible: 891
+Building PAS...
+Average clusters audible: 1280
+visdatasize:1030042  compressed from 1611520
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+10 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+8861 faces
+154 degenerate faces
+1925417 square feet [277260096.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8707 patches before subdivision
+Zero area child patch at around -650.325195 2587.090088 751.818237
+157973 patches after subdivision
+148 direct lights
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 103/4096         4944/196608   ( 2.5%) 
+brushes               1479/16384       17748/196608   ( 9.0%) 
+brushsides            9917/163840      79336/1310720  ( 6.1%) 
+planes                5580/65536      111600/1310720  ( 8.5%) 
+vertexes             14374/65536      172488/786432   (21.9%) 
+nodes                 5339/65536      170848/2097152  ( 8.1%) 
+texinfos              1760/16384      126720/1179648  (10.7%) 
+texdata                 63/8192         2016/262144   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 8861/65536      496216/3670016  (13.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4307/65536      241192/3670016  ( 6.6%) 
+leaves                5443/65536      174176/2097152  ( 8.3%) 
+leaffaces            10558/65536       21116/131072   (16.1%) 
+leafbrushes           3727/65536        7454/131072   ( 5.7%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges            61785/512000     247140/2048000  (12.1%) 
+edges                34914/256000     139656/1024000  (13.6%) 
+LDR worldlights        148/8192        13024/720896   ( 1.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1194/32768       11940/327680   ( 3.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18870/65536       37740/131072   (28.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     6730364/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1030042/16777216 ( 6.1%) 
+entdata               [variable]      331175/393216   (84.2%) VERY FULL!
+LDR ambient table     5443/65536       21772/262144   ( 8.3%) 
+HDR ambient table     5443/65536       21772/262144   ( 8.3%) 
+LDR leaf ambient     11013/65536      308364/1835008  (16.8%) 
+HDR leaf ambient      5443/65536      152404/1835008  ( 8.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212697/0        ( 0.0%) 
+...1...2...
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+3
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+..
+WARNING: Too many light styles on a face at (-955.324219, 4833.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-909.000244, 4823.000000, -14.744900)
+.
+WARNING: Too many light styles on a face at (-1036.821045, 4928.000488, 312.000000)
+4
+WARNING: Too many light styles on a face at (-1055.322144, 4880.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-1225.320068, 5043.500000, 396.000000)
+
+WARNING: Too many light styles on a face at (-1054.477661, 4902.012695, -14.744900)
+
+WARNING: Too many light styles on a face at (-1243.000000, 5017.500000, 69.255074)
+
+WARNING: Too many light styles on a face at (-1073.000122, 4854.000000, -14.744900)
+...5...6...7.
+WARNING: Too many light styles on a face at (1300.119995, 1483.816284, 412.000000)
+
+WARNING: Too many light styles on a face at (1297.621338, 1440.816284, 312.000000)
+.
+WARNING: Too many light styles on a face at (1031.061279, 1375.320068, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1419.818237, 312.000000)
+
+WARNING: Too many light styles on a face at (1062.122559, 1471.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.899292, 1401.320068, -14.744900)
+
+WARNING: Too many light styles on a face at (1031.899414, 1445.818115, -14.744900)
+
+WARNING: Too many light styles on a face at (1095.798706, 1497.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1129.299438, 1450.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1303.798706, 1466.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1317.800049, 1287.318237, 69.255127)
+.
+WARNING: Too many light styles on a face at (982.122559, 1455.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (951.798767, 1465.816162, -14.744900)
+8...9
+WARNING: Too many light styles on a face at (-945.208496, 529.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-792.208252, 626.255005, 312.000000)
+
+WARNING: Too many light styles on a face at (-789.702881, 581.734192, 312.000000)
+
+WARNING: Too many light styles on a face at (-1022.081116, 624.801514, 312.000000)
+.
+WARNING: Too many light styles on a face at (-962.884766, 503.755249, -14.744900)
+
+WARNING: Too many light styles on a face at (-1028.604248, 624.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1045.209229, 576.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1215.209961, 740.255127, 396.000000)
+.
+WARNING: Too many light styles on a face at (-1232.880127, 491.755249, 85.255127)
+
+WARNING: Too many light styles on a face at (-1230.382324, 534.755249, -14.744900)
+.100...1...2...3...4...5...6...7...8...9...10Optimized: 9259 visible clusters (1.16%)
+Total clusters visible: 797653
+Average clusters visible: 324
+Building PAS...
+Average clusters audible: 1040
+visdatasize:785331  compressed from 1533792
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+25 minutes, 28 seconds elapsed
+...1...2...3...4...5...6...7...8...9...10transfers 33757182, max 1422
+transfer lists: 257.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(107462, 99040, 80362)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(9748, 8476, 5638)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1347, 1173, 737)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(166, 140, 83)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(25, 21, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0342 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 103/4096         4944/196608   ( 2.5%) 
+brushes               1479/16384       17748/196608   ( 9.0%) 
+brushsides            9917/163840      79336/1310720  ( 6.1%) 
+planes                5580/65536      111600/1310720  ( 8.5%) 
+vertexes             14374/65536      172488/786432   (21.9%) 
+nodes                 5339/65536      170848/2097152  ( 8.1%) 
+texinfos              1760/16384      126720/1179648  (10.7%) 
+texdata                 63/8192         2016/262144   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 8861/65536      496216/3670016  (13.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4307/65536      241192/3670016  ( 6.6%) 
+leaves                5443/65536      174176/2097152  ( 8.3%) 
+leaffaces            10558/65536       21116/131072   (16.1%) 
+leafbrushes           3727/65536        7454/131072   ( 5.7%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges            61785/512000     247140/2048000  (12.1%) 
+edges                34914/256000     139656/1024000  (13.6%) 
+LDR worldlights        148/8192        13024/720896   ( 1.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1194/32768       11940/327680   ( 3.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18870/65536       37740/131072   (28.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     6730364/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1030042/16777216 ( 6.1%) 
+entdata               [variable]      331175/393216   (84.2%) VERY FULL!
+LDR ambient table     5443/65536       21772/262144   ( 8.3%) 
+HDR ambient table     5443/65536       21772/262144   ( 8.3%) 
+LDR leaf ambient     11013/65536      308364/1835008  (16.8%) 
+HDR leaf ambient      5443/65536      152404/1835008  ( 8.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212697/0        ( 0.0%) 
+physics               [variable]      559592/4194304  (13.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 26714
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+2 minutes, 10 seconds elapsed
+...1...2...3...4...5...6...7...8...9...10Optimized: 9563 visible clusters (1.09%)
+Total clusters visible: 878165
+Average clusters visible: 348
+Building PAS...
+Average clusters audible: 1093
+visdatasize:838923  compressed from 1611520
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+28 minutes, 37 seconds elapsed
+
+
+
+materialPath: C:\Users\ryanz\Downloads\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\ryanz\Documents\rp_krasnow.vmf
+material "customs/upsrflagwaving2" not found.
+Material not found!: CUSTOMS/UPSRFLAGWAVING2
+Patching WVT material: maps/rp_krasnow/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.3 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.4 2579.5 627.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-678.2 2579.5 626.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 8905: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ryanz\Documents\rp_krasnow.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (552584 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3006 texinfos to 1726
+Reduced 67 texdatas to 63 (1671 bytes to 1510)
+Writing C:\Users\ryanz\Documents\rp_krasnow.bsp
+3 seconds elapsed
+
+
+
+4 threads
+reading c:\users\ryanz\documents\rp_krasnow.bsp
+reading c:\users\ryanz\documents\rp_krasnow.prt
+2444 portalclusters
+6503 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 194615 visible clusters (9.49%)
+Total clusters visible: 2051121
+Average clusters visible: 839
+Building PAS...
+Average clusters audible: 1216
+visdatasize:970512  compressed from 1525056
+writing c:\users\ryanz\documents\rp_krasnow.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\ryanz\documents\rp_krasnow.bsp
+PREP OK
+8630 faces
+154 degenerate faces
+1892232 square feet [272481472.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8476 patches before subdivision
+Zero area child patch at around -650.325195 2587.090088 751.818237
+153306 patches after subdivision
+131 direct lights
+0...1...2...
+WARNING: Too many light styles on a face at (1158.000000, 5508.500000, 173.000000)
+
+WARNING: Too many light styles on a face at (1155.500000, 5688.000000, 89.000000)
+3
+WARNING: Too many light styles on a face at (888.000000, 5719.000000, 89.000000)
+
+WARNING: Too many light styles on a face at (969.500000, 5672.000000, 89.000000)
+..
+WARNING: Too many light styles on a face at (-955.324219, 4833.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-909.000244, 4823.000000, -14.744900)
+.4
+WARNING: Too many light styles on a face at (-1036.821045, 4928.000488, 312.000000)
+
+WARNING: Too many light styles on a face at (-1055.322144, 4880.000000, 312.000000)
+
+WARNING: Too many light styles on a face at (-1225.320068, 5043.500000, 396.000000)
+
+WARNING: Too many light styles on a face at (-1054.477661, 4902.012695, -14.744900)
+
+WARNING: Too many light styles on a face at (-1243.000000, 5017.500000, 69.255074)
+
+WARNING: Too many light styles on a face at (-1073.000122, 4854.000000, -14.744900)
+...5...6...7..
+WARNING: Too many light styles on a face at (1300.119995, 1483.816284, 412.000000)
+
+WARNING: Too many light styles on a face at (1297.621338, 1440.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1375.320068, 312.000000)
+
+WARNING: Too many light styles on a face at (1031.061279, 1419.818237, 312.000000)
+
+WARNING: Too many light styles on a face at (1062.122559, 1471.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (1317.800049, 1509.816284, 85.255127)
+
+WARNING: Too many light styles on a face at (1315.299438, 1466.816162, -14.744900)
+
+WARNING: Too many light styles on a face at (1031.899292, 1401.320068, -14.744900)
+
+WARNING: Too many light styles on a face at (1031.899414, 1445.818115, -14.744900)
+
+WARNING: Too many light styles on a face at (1095.798706, 1497.816162, -14.744900)
+.
+WARNING: Too many light styles on a face at (982.122559, 1455.816284, 312.000000)
+
+WARNING: Too many light styles on a face at (951.798767, 1465.816162, -14.744900)
+8...9
+WARNING: Too many light styles on a face at (-792.208252, 626.255005, 312.000000)
+
+WARNING: Too many light styles on a face at (-945.208496, 529.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1022.081116, 624.801514, 312.000000)
+
+WARNING: Too many light styles on a face at (-789.702881, 581.734192, 312.000000)
+.
+WARNING: Too many light styles on a face at (-962.884766, 503.755249, -14.744900)
+
+WARNING: Too many light styles on a face at (-1028.604248, 624.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1045.209229, 576.755371, 312.000000)
+
+WARNING: Too many light styles on a face at (-1215.209961, 740.255127, 396.000000)
+.
+WARNING: Too many light styles on a face at (-1232.880127, 491.755249, 85.255127)
+
+WARNING: Too many light styles on a face at (-1230.382324, 534.755249, -14.744900)
+.100...1...2...3...4...5...6...7...8...9...10transfers 32084454, max 1330
+transfer lists: 244.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(108241, 99806, 81037)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(9764, 8493, 5645)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1357, 1182, 742)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(169, 142, 84)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(26, 22, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0446 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 103/4096         4944/196608   ( 2.5%) 
+brushes               1462/16384       17544/196608   ( 8.9%) 
+brushsides            9815/163840      78520/1310720  ( 6.0%) 
+planes                5516/65536      110320/1310720  ( 8.4%) 
+vertexes             14034/65536      168408/786432   (21.4%) 
+nodes                 5226/65536      167232/2097152  ( 8.0%) 
+texinfos              1726/16384      124272/1179648  (10.5%) 
+texdata                 63/8192         2016/262144   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 8630/65536      483280/3670016  (13.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4210/65536      235760/3670016  ( 6.4%) 
+leaves                5330/65536      170560/2097152  ( 8.1%) 
+leaffaces            10215/65536       20430/131072   (15.6%) 
+leafbrushes           3710/65536        7420/131072   ( 5.7%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges            60222/512000     240888/2048000  (11.8%) 
+edges                34092/256000     136368/1024000  (13.3%) 
+LDR worldlights        131/8192        11528/720896   ( 1.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1149/32768       11490/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18120/65536       36240/131072   (27.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     6547752/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      970512/16777216 ( 5.8%) 
+entdata               [variable]      313078/393216   (79.6%) 
+LDR ambient table     5330/65536       21320/262144   ( 8.1%) 
+HDR ambient table     5330/65536       21320/262144   ( 8.1%) 
+LDR leaf ambient     10630/65536      297640/1835008  (16.2%) 
+HDR leaf ambient      5330/65536      149240/1835008  ( 8.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212697/0        ( 0.0%) 
+physics               [variable]      552584/4194304  (13.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 26001
+Writing c:\users\ryanz\documents\rp_krasnow.bsp
+54 seconds elapsed
