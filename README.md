@@ -15,3 +15,5 @@ CHANGES
 7. The two posters you've sent me so far.
 8. The billboard.
 9. Added gates matching the fences to get to the main grassy areas outside.
+
+I advise using some more posters to decorate this part of the map, but aside from that it looks pretty good.
